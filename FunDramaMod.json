@@ -56,6 +56,13 @@
     "allowOffline": true
   },
   {
+    "id": "9ad3f7c17626bd27",
+    "username": "6281931531736",
+    "password": "fundrama",
+    "expiresAt": "2026-06-09",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
